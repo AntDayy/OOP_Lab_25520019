@@ -3,9 +3,12 @@
 Repository lưu trữ toàn bộ mã nguồn và bài giải cho các buổi thực hành môn OOP tại Trường Đại học Công nghệ Thông tin – ĐHQG TP.HCM (UIT).
 
 Tác giả: Nguyễn Thiện An
+
 MSSV: 25520019
 
 ## Cấu trúc thư mục
+
+```text
 OOP_Lab_25520019/
 ├── BTTH1/          # Bài thực hành 1: Ôn tập C++ cơ bản, cấu trúc dữ liệu & nhập xuất
 ├── BTTH2/          # Bài thực hành 2: Lớp (Class), Đối tượng (Object), Constructor & Destructor
